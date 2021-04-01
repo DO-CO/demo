@@ -6,4 +6,3 @@ This is a simple readme file
 
 Some new text to see how comparison is working ! 
 
-I hope this WONT be a PROBLEM  !!! 
