@@ -4,5 +4,5 @@ This is a simple readme file
 
 ## Heading 2 
 
-Some new text to see how comparison is working ! 
+Adding a feature ... but it's not the moment to see it ! 
 
